@@ -1,0 +1,5 @@
+$green: map_get($app-colors, green) !default;
+$font-family-base: 'PT Sans', sans-serif !default;
+$body-bg: #f6f5f6 !default;
+
+@import "~bootstrap/scss/bootstrap";
